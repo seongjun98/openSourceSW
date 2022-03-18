@@ -10,4 +10,5 @@ name, SchoolNum, Major, habbit = map(str, input().split())
 
 print("Hello World!\n")
 print(f"이름 = {name}, 학번 = {SchoolNum}, 전공 = {Major}, 취미 = {habbit}")
+print("나이 = ", age)
   
