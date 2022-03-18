@@ -13,4 +13,5 @@ age = '23'
 print("Hello World!\n")
 print(f"이름 = {name}, 학번 = {SchoolNum}, 전공 = {Major}, 취미 = {habbit}")
 print("나이 = ", age)
-  
+
+print("감사합니다")
