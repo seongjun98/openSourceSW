@@ -15,3 +15,4 @@ print(f"이름 = {name}, 학번 = {SchoolNum}, 전공 = {Major}, 취미 = {habbi
 print("나이 = ", age)
 
 print("감사합니다")
+print("안녕히 가세요")
